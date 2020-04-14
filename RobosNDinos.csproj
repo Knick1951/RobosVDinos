@@ -1,0 +1,44 @@
+﻿using DocumentFormat.OpenXml.Spreadsheet;
+using System;
+
+namespace RobosNDinos
+{
+    class Battle
+    {
+        public static string GetAttackResult;
+        private (
+             Filter fighter1, Filter fighter2)
+
+    // Calculate 1 fighterattack and the
+    // other block
+
+    // Subtract block from the attack
+
+    // Print out info on who attacked who and
+    // for how much damage
+
+    // Provide output on the change in health
+
+    // check if the warriors health fell below
+    // 0 and if so print a message and then
+    // send a response that will end the 
+
+
+
+
+    Int;
+
+        public (Filter fighter1, Filter fighter2) Int1 { get => Int; set => Int = value; }
+
+        private (Filter fighter1, Filter fighter2) GetInt1()
+        {
+            return Int1;
+        }
+
+        static string GetResult(Warriors fighter1, Rapts fighter2)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
+
